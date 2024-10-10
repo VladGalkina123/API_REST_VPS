@@ -1,0 +1,3 @@
+class Config:
+    SQLALCHEMY_DATABASE_URI = 'mysql://root:root@178.128.144.84:3308/db'
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
